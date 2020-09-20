@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c82e04d.chunk.css",
+    "main.js": "/static/js/main.f179ab8c.chunk.js",
+    "main.js.map": "/static/js/main.f179ab8c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49627031.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49627031.js.map",
+    "static/js/2.f952bea5.chunk.js": "/static/js/2.f952bea5.chunk.js",
+    "static/js/2.f952bea5.chunk.js.map": "/static/js/2.f952bea5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5db91667b6bf0e98cda8aab29fc4fbc4.js": "/precache-manifest.5db91667b6bf0e98cda8aab29fc4fbc4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8c82e04d.chunk.css.map": "/static/css/main.8c82e04d.chunk.css.map",
+    "static/js/2.f952bea5.chunk.js.LICENSE.txt": "/static/js/2.f952bea5.chunk.js.LICENSE.txt",
+    "static/media/Tinder.png": "/static/media/Tinder.44fd5c4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49627031.js",
+    "static/js/2.f952bea5.chunk.js",
+    "static/css/main.8c82e04d.chunk.css",
+    "static/js/main.f179ab8c.chunk.js"
+  ]
+}
